@@ -168,8 +168,9 @@ export const Modal = styled(({ style, children, ...props }) => {
 		padding: 0;
 		height: 100%;
 
-		::-webkit-scrollbar {
-			display: none;
+		> div:first-child {
+			height: 81%;
+			padding: 24px 30px 0;
 		}
 
 		> h3 {

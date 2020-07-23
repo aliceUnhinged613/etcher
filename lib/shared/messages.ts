@@ -76,7 +76,7 @@ export const compatibility = {
 
 	// The drive is large and therefore likely not a medium you want to write to.
 	largeDrive: () => {
-		return 'Large drive';
+		return 'Large Drive';
 	},
 } as const;
 
