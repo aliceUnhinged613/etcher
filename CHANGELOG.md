@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.110
+## (2020-09-18)
+
+* Add skip function to validation [Lorenzo Alberto Maria Ambrosi]
+* Rework success screen [Lorenzo Alberto Maria Ambrosi]
+
 # v1.5.109
 ## (2020-09-14)
 
