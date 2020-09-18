@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.110
+## (2020-09-18)
+
+* Fix settings spacing [Lorenzo Alberto Maria Ambrosi]
+* Use drive-selector's table for flash errors table [Lorenzo Alberto Maria Ambrosi]
+* Update rendition to v18.8.3 [Lorenzo Alberto Maria Ambrosi]
+* Fix zoomFactor in webviews [Lorenzo Alberto Maria Ambrosi]
+* Add retry button to the errors modal in success screen [Lorenzo Alberto Maria Ambrosi]
+* Cleanup after child-process is terminated [Lorenzo Alberto Maria Ambrosi]
+* Add skip function to validation [Lorenzo Alberto Maria Ambrosi]
+* Rework success screen [Lorenzo Alberto Maria Ambrosi]
+
 # v1.5.109
 ## (2020-09-14)
 
